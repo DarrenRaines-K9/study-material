@@ -86,7 +86,7 @@ Define a variable to calculate net monthly income
 
     console.log(statement)
 
-Solution tab runs it in the following format:
+**Solution tab runs it in the following format:
 
     const statement = `Our combined monthly income is ${myIncome + spouseIncome}.
     Our total monthly expenses are ${phoneBill + mortgage + carInsurance + healthInsurance}.
